@@ -8,4 +8,6 @@ load_example_outputs.py : load example .txt files output from LabVIEW program in
 
 manual.pptx : instructions for install and use of program
 
+labview_functions : contains functions that I commonly use for loading in data
+
 Any question email Nick, ntulshibagwale@ucsb.edu 
