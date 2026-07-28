@@ -46,4 +46,4 @@ Installation guide and user manual describing software setup and operation.
 For questions or feedback, please contact:
 
 **Nick Tulshibagwale**  
-📧 tul725@gmail.com
+tul725@gmail.com
