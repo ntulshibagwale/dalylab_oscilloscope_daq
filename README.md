@@ -1,4 +1,4 @@
-# DalyLab Oscilloscope DAQ
+# Daly Lab Oscilloscope DAQ
 
 LabVIEW software for automated waveform generation and data acquisition using Keysight InfiniiVision oscilloscopes. The project was developed for ultrasonic testing and acoustic emission experiments in the UCSB Daly Lab.
 
