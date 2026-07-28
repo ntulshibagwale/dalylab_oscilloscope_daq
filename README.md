@@ -14,7 +14,11 @@ Python utilities are included for loading, post-processing, and analyzing data g
 </p>
 
 <p align="center">
-  <img src="labview_gui.png" alt="LabVIEW GUI" width="850">
+  <img src="labview_gui_active.png" alt="LabVIEW GUI" width="850">
+</p>
+
+<p align="center">
+  <img src="labview_gui_passive.png" alt="LabVIEW GUI" width="850">
 </p>
 
 ## Repository Contents
