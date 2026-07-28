@@ -2,6 +2,10 @@
 
 LabVIEW software for automated waveform generation and data acquisition using Keysight InfiniiVision oscilloscopes. The project was developed for ultrasonic testing and acoustic emission experiments in the UCSB Daly Lab.
 
+<p align="center">
+  <img src="labview_gui.png" alt="LabVIEW GUI" width="850">
+</p>
+
 The LabVIEW application provides three operating modes:
 - Frequency sweep
 - Pulse generation
